@@ -29,4 +29,4 @@ void student::set_age(int n){
 
 int student::get_age(){
   return age;
-}
+} 

@@ -20,7 +20,7 @@ int main(int argc, char* argv[]) {
     else{
     s2.print_name(); 
     }
-    cout<<"is older";
+    cout<<"is older"; 
     
   }
   
